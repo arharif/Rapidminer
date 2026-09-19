@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠📊 Homework 1 — RapidMiner / Altair AI Studio
+# 🧠📊 Homework 1 - RapidMiner / Altair AI Studio
 ### **Data Mining for Business Analytics — Visual & Guided Edition**
 
 **Course:** MBA/GBUS 738  
@@ -12,6 +12,7 @@
 
 ### 🎯 Mission
 > **Clean once → Multiply → Solve Q1–Q5 → Validate → Submit**
+> > Prepared by [arharif](https://arharif.github.io/)
 
 </div>
 
